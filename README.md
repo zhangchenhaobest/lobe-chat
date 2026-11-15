@@ -1,3 +1,29 @@
+# lobe-chat
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+LobeHub：把超级 Agent 加入团队现有聊天，自主承担工作并持续变强。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center"><a name="readme-top"></a>
 
 [![][image-banner]][vercel-link]
